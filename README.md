@@ -22,6 +22,17 @@ starts at lesson 3.
 
 ---
 
+## Teaching Materials
+
+- [`MIPS_Assembly_Lecture.pptx`](MIPS_Assembly_Lecture.pptx) — 25-slide
+  1-hour lecture deck covering registers, every example below, the
+  stack, and recursion.
+- [`MIPS_Instruction_Set.pdf`](MIPS_Instruction_Set.pdf) — MIPS
+  instruction-set reference card, handy when reading or writing the
+  examples.
+
+---
+
 ## Files
 
 | File | Lesson | Topic |
